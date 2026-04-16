@@ -1,0 +1,236 @@
+[
+  {
+    "id": "chicken_breast",
+    "name": "Chicken Breast",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "unit": "g"
+  },
+  {
+    "id": "brown_rice",
+    "name": "Brown Rice",
+    "calories": 111,
+    "protein": 2.6,
+    "carbs": 23,
+    "fat": 0.9,
+    "unit": "g"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "calories": 34,
+    "protein": 2.8,
+    "carbs": 7,
+    "fat": 0.4,
+    "unit": "g"
+  },
+  {
+    "id": "olive_oil",
+    "name": "Olive Oil",
+    "calories": 884,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 100,
+    "unit": "ml"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "calories": 160,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 15,
+    "unit": "g"
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "calories": 208,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 13,
+    "unit": "g"
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs",
+    "calories": 155,
+    "protein": 13,
+    "carbs": 1.1,
+    "fat": 11,
+    "unit": "pcs"
+  },
+  {
+    "id": "sweet_potato",
+    "name": "Sweet Potato",
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20,
+    "fat": 0.1,
+    "unit": "g"
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "calories": 120,
+    "protein": 4.4,
+    "carbs": 21,
+    "fat": 1.9,
+    "unit": "g"
+  },
+  {
+    "id": "greek_yogurt",
+    "name": "Greek Yogurt",
+    "calories": 59,
+    "protein": 10,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "unit": "g"
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "calories": 76,
+    "protein": 8,
+    "carbs": 1.9,
+    "fat": 4.8,
+    "unit": "g"
+  },
+  {
+    "id": "turkey_breast",
+    "name": "Turkey Breast",
+    "calories": 135,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 0.7,
+    "unit": "g"
+  },
+  {
+    "id": "cashews",
+    "name": "Cashews",
+    "calories": 553,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 44,
+    "unit": "g"
+  },
+  {
+    "id": "blueberries",
+    "name": "Blueberries",
+    "calories": 57,
+    "protein": 0.7,
+    "carbs": 14,
+    "fat": 0.3,
+    "unit": "g"
+  },
+  {
+    "id": "kale",
+    "name": "Kale",
+    "calories": 49,
+    "protein": 4.3,
+    "carbs": 8.8,
+    "fat": 0.9,
+    "unit": "g"
+  },
+  {
+    "id": "greek_yogurt_full",
+    "name": "Full Fat Greek Yogurt",
+    "calories": 97,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 5,
+    "unit": "g"
+  },
+  {
+    "id": "lentils",
+    "name": "Lentils",
+    "calories": 116,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 0.4,
+    "unit": "g"
+  },
+  {
+    "id": "shrimp",
+    "name": "Shrimp",
+    "calories": 99,
+    "protein": 24,
+    "carbs": 0.2,
+    "fat": 0.3,
+    "unit": "g"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "calories": 25,
+    "protein": 1.9,
+    "carbs": 5,
+    "fat": 0.3,
+    "unit": "g"
+  },
+  {
+    "id": "peanut_butter",
+    "name": "Peanut Butter",
+    "calories": 588,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 50,
+    "unit": "g"
+  },
+  {
+    "id": "black_beans",
+    "name": "Black Beans",
+    "calories": 132,
+    "protein": 8.9,
+    "carbs": 23,
+    "fat": 0.5,
+    "unit": "g"
+  },
+  {
+    "id": "cod_fish",
+    "name": "Cod Fish",
+    "calories": 82,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 0.7,
+    "unit": "g"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "calories": 304,
+    "protein": 0.3,
+    "carbs": 82,
+    "fat": 0,
+    "unit": "g"
+  },
+  {
+    "id": "walnuts",
+    "name": "Walnuts",
+    "calories": 654,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 65,
+    "unit": "g"
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus",
+    "calories": 20,
+    "protein": 2.2,
+    "carbs": 3.9,
+    "fat": 0.1,
+    "unit": "g"
+  },
+  {
+    "id": "pita_bread",
+    "name": "Pita Bread",
+    "calories": 275,
+    "protein": 9,
+    "carbs": 55,
+    "fat": 1.2,
+    "unit": "g"
+  }
+]
