@@ -4,19 +4,23 @@ import { Helmet } from 'react-helmet-async';
 interface SEOProps {
   title: string;
   description: string;
+  keywords?: string;
   canonical?: string;
   schema?: any;
 }
 
-const SEO: React.FC<SEOProps> = ({ title, description, canonical, schema }) => {
+const SEO: React.FC<SEOProps> = ({ title, description, keywords, canonical, schema }) => {
   const siteName = 'Food Tools Hub';
   const fullTitle = `${title} | ${siteName}`;
+  const defaultKeywords = 'meal planner, calorie estimator, offline recipes, healthy diet tools, macro calculator, privacy-first food hub';
+  const currentUrl = `https://food.freetoolshubs.com${window.location.pathname}`;
 
   return (
     <Helmet>
       <title>{fullTitle}</title>
       <meta name="description" content={description} />
-      {canonical && <link rel="canonical" href={canonical} />}
+      <meta name="keywords" content={keywords || defaultKeywords} />
+      <link rel="canonical" href={canonical || currentUrl} />
       
       {/* Open Graph */}
       <meta property="og:title" content={fullTitle} />
